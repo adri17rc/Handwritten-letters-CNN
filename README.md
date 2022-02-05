@@ -15,6 +15,9 @@ A sequential struture was chosen, consisting on 3 hidden layers, one Conv2D with
 -RESULTS
 
 After training the model, an accuracy of 0.9957 wa registered, and a loss of 0.0127. Thus, we can conclude that our model was trained succesfully and will predict, in most of the cases, the right letter. 
+
 ![ModelLoss_NIST](https://user-images.githubusercontent.com/96789733/152639941-a2766830-ac4c-41ea-b0d6-6a301928bc89.png)![ModelAccuracy_NIST](https://user-images.githubusercontent.com/96789733/152639943-44e6906a-67e0-4014-a2dc-1432d6bf2cec.png)
+
+Finally, the first 100 hundred picutures were picked up and use to predict the letters. A 100% of acccuracy was obtained. 
 
 
